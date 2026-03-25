@@ -28,6 +28,16 @@ The problems in this repository include:
 ✅ File Handling (basic)
 
 ✅ Error Handling
+ 
+ ✅Linked List
+
+ ✅Stack
+
+ ✅Queue
+
+ ✅
+
+ ✅
 
 ✅ Practice Exercises from W3Schools
 
